@@ -8,4 +8,6 @@ What you can get from this dashboard?
 
 Data source: #COVID19 Activity from data.world
 
-You may download the twb file to play around my workbook:)
+You may download Tableau and the twb file to play around my workbook 
+or 
+go to https://public.tableau.com/profile/wing1703#!/ to check it out (but there will be latency problem for the 2nd option)
