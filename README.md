@@ -7,3 +7,5 @@ What you can get from this dashboard?
 -   The most severely affected countries
 
 Data source: #COVID19 Activity from data.world
+
+You may download the twb file to play around my workbook:)
